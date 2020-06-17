@@ -5,8 +5,11 @@ The project is built to extract features from the provided Datasets and to check
 The Algorithm part is entirely hardcoded based on the Algorithm which is Available in any Website or is also available in the Document provided by me.
 There were also many missing Data values and a lot of Preprocessing is involved before applying the Algorithm,these are the various steps involved in Data Preprocessing namely:
 1)Data Reduction
+
 2)Data Integration
+
 3)Data Cleaning
+
 4)Data Transformation
 
 After Performing the above activities we have Applied the Algorithm.
